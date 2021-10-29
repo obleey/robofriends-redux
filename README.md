@@ -1,4 +1,4 @@
-# RoboFriends-hooks
+# RoboFriends-redux
 
 This was made as part of the Zero to Mastery: Complete Web Developer 2021. This is the same as [Robofriends](https://github.com/obleey/robofriends), but it has been developed using Redux.
 
