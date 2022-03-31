@@ -1,6 +1,7 @@
 ## # RoboFriends-redux
 A simple React App, that filters through fetched data with a search bar and displays it on Card components. This implementation was made using Redux. 
 ![Robofriends](https://i.imgur.com/goWtZ03.png)
+[Demo](https://obleey.github.io/robofriends/)
 
 ## How I worked on this project  
 
@@ -39,3 +40,7 @@ run  `nmp start`
 **Prod build:**
 
 run  `nmp run deploy`
+
+## Authors
+[Miha Oblišar - @mihaoblisar](www.linkedin.com/in/miha-obli%C5%A1ar-8b177610a)
+
