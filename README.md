@@ -44,3 +44,6 @@ run  `nmp run deploy`
 ## Authors
 [Miha Oblišar - @mihaoblisar](www.linkedin.com/in/miha-obli%C5%A1ar-8b177610a)
 
+## Licence
+This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
+
